@@ -6,5 +6,7 @@ The purpose behind this repository is to write clean and optimized JavaScript co
 
 
 
-###Author
+
+
+### Author
 Kushal Shinde
